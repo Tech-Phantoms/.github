@@ -192,4 +192,5 @@
   description: The situation is obvious, best practices used.
   aliases:
     - obvious
-
+- name: 'invite me to organisation'
+  color: 'C2E0C6'
