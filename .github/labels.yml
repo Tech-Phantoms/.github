@@ -1,5 +1,6 @@
 # seantrane label group see - https://seantrane.com/posts/logical-colorful-github-labels-18230/#label-groups 
-
+- name: github-invitation
+  color: ffb8c6
 - name: breaking
   color: d73a4a
   description: Introduces a breaking change.
