@@ -1,12 +1,16 @@
+<div align="center"> 
 <img src="https://github.com/Tech-Phantoms/.github/blob/main/profile/assets/banner.png" width="100%" />
+<br>
+<div>
+<a href="https://discord.gg/bpK9dU6q"><img src="https://img.shields.io/badge/discord-%40discord.gg-5C6E91" /></a>
+<a href="https://twitter.com/tech_phantoms"><img src="https://img.shields.io/badge/twitter-%40tech__phantoms-00BCD4"/></a>
+<a href="https://www.linkedin.com/company/techphantoms/"><img src="https://img.shields.io/badge/linkedin-%40techphantoms-blue" /></a>
 
-<!--
+</div>
 
-**Here are some ideas to get you started:**
+<h1 />
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## ✨ Welcome
+
+You have found the open source hiding place of **Tech Phantoms**. We are a community of student developers, hanging out for fun.
