@@ -1,4 +1,4 @@
-<img src="https://github.com/Tech-Phantoms/.github/blob/main/profile/assets/banner.png" width="100%" />
+<img src="https://github.com/iipranavii/community/raw/main/assets/banner1.png" width="100%" />
 
 <!--
 
