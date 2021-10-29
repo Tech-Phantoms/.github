@@ -1,4 +1,4 @@
-<img src="https://github.com/Tech-Phantoms/.github/blob/main/profile/assets/banner.png" width="100%" />
+![techphantoms-readme-dark](https://user-images.githubusercontent.com/67915580/139461606-877a26de-e98d-4c80-b180-7d55114ddadd.png)
 
 <!--
 
