@@ -1,4 +1,6 @@
-<img src="https://github.com/iipranavii/community/raw/main/assets/banner1.png" width="100%" />
+<div align="center">
+<img src="https://github.com/iipranavii/community/raw/main/assets/banner1.png" width="80%" />
+</div>
 
 <!--
 
