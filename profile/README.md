@@ -1,14 +1,25 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/banner1.png" width="80%" />
+</h1>
+
+<h3 align="center">
+🎉 Welcome to Tech Phantoms community repo 🎉
+</h3>
+
+<br>
+
 <div align="center">
-<img src="https://github.com/iipranavii/community/raw/main/assets/banner1.png" width="80%" />
+<a href="https://discord.gg/bpK9dU6q"><img src="https://img.shields.io/badge/discord-%40discord.gg-5C6E91" /></a>
+<a href="https://twitter.com/tech_phantoms"><img src="https://img.shields.io/badge/twitter-%40tech__phantoms-00BCD4"/></a>
+<a href="https://www.linkedin.com/company/techphantoms/"><img src="https://img.shields.io/badge/linkedin-%40techphantoms-blue" /></a>
 </div>
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+## About us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Tech Phantoms is an open source community run by students. We hang out to share our knowledge and to build cool projects. Come hang out with us and lets make open source a better place. Join to our [discord](https://discord.gg/bpK9dU6q) and follow our [twitter](https://twitter.com/tech_phantoms). 
+
+## Join Tech Phantoms GitHub Organization
+
+Yeah you heard right we would love if you join our communtiy. To join **Tech Phantoms** fill in this [issue](https://github.com/Tech-Phantoms/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and open an issue. We would love to have you in our Organizations.
