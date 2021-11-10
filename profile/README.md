@@ -26,16 +26,28 @@ We hope to see you there! 😁
 
 Yeah, you heard right: we would love if you join our community! 🙌 To join **Tech Phantoms**, fill in this [issue](https://github.com/Tech-Phantoms/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) form and open it. After that, you should make your membership public so everyone can know you're part of **Tech Phantoms**!
 
-<h3 align="center"> 📢 Making your membership in Tech Phantoms visible to anyone </h3>
+<br/><br/>
 
-If you'd like to tell the world which organizations you belong to, you can display the avatars of the organizations on your profile. Check the [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership) for how to do this. OR you can also:
+---
+<h3>How to showcase your membership on your profile.</h3>
+<p>
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/53480076/141053581-aa334c3d-8c57-460f-9658-3766071c20d5.png"></p>
 
-- Click on the `View all` text.
+<details>
+   <summary>     
+Click to Know How
+  </summary>
+  <br/>
 
-![image](https://user-images.githubusercontent.com/51391473/139606738-9ec42a9f-aa9e-4472-a24e-f8b0fd7bc5f9.png)
+Step 1 : Click on the View All Button on https://github.com/tech-phantoms org.
 
-- Set it to the public option.
+<img width="1286" alt="image" src="https://user-images.githubusercontent.com/53480076/141054037-43e84507-bfc0-4037-83db-1817d85ef2b4.png">
+<br/><br/>
+Step 2 : Set it to the public option.<br/><br/>
+<img width="1319" alt="image" src="https://user-images.githubusercontent.com/53480076/141054514-e9d85aec-89bb-4f7b-a665-d9d627d35d28.png">
 
-![image](https://user-images.githubusercontent.com/51391473/139606666-684fbd83-13c3-4cec-81a7-d59bdebb2e36.png)
+   - That's it! Now your profile in the organization is visible to anyone! 🎉
+<br/>
+<i>Optional: To know more about managing membership, you can head over to <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">GitHub Docs</a></i>
 
-- That's it! Now your profile in the organization is visible to anyone! 🎉
+</details>
