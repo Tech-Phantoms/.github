@@ -29,25 +29,31 @@ Yeah, you heard right: we would love if you join our community! 🙌 To join **T
 <br/><br/>
 
 ---
-<h3>How to showcase your membership on your profile.</h3>
+
+<h3 align="center">📢 How to make your organization membership public</h3>
 <p>
 <img width="251" alt="image" src="https://user-images.githubusercontent.com/53480076/141053581-aa334c3d-8c57-460f-9658-3766071c20d5.png"></p>
 
 <details>
-   <summary>     
-Click to Know How
+   <summary>
+     Let's do it! 🚀
   </summary>
   <br/>
 
-Step 1 : Click on the View All Button on https://github.com/tech-phantoms org.
+1. Go to our organization page https://github.com/Tech-Phantoms
+2. Click on the "View All" text
 
 <img width="1286" alt="image" src="https://user-images.githubusercontent.com/53480076/141054037-43e84507-bfc0-4037-83db-1817d85ef2b4.png">
 <br/><br/>
-Step 2 : Set it to the public option.<br/><br/>
+3. Click on the "public" button<br/><br/>
 <img width="1319" alt="image" src="https://user-images.githubusercontent.com/53480076/141054514-e9d85aec-89bb-4f7b-a665-d9d627d35d28.png">
-
-   - That's it! Now your profile in the organization is visible to anyone! 🎉
 <br/>
-<i>Optional: To know more about managing membership, you can head over to <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">GitHub Docs</a></i>
+<br/>
+
+That's it! Now your profile in the organization is visible to anyone! 🎉\
+You can make your membership private at anytime and as many times as you want.
+  
+<i>Optional: 📜 To know more about managing organization\
+memberships, you can head over to the <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">GitHub Docs</a></i>
 
 </details>
