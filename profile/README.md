@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🎉 Welcome to Tech Phantoms community repo 🎉
+🎉 Welcome to Tech Phantoms 🎉
 </h3>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <h2 align="center"> 📜 About us </h2>
 
-Tech Phantoms is an open source community run by awesome students from our community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, resume reviews, and much more 🚀 Come hang out with us and let's make open source a better place 🔥 Join to our [Discord](https://discord.apihacks.co/) community and follow us on [Twitter](https://twitter.com/tech_phantoms) to stay tuned about new announcements, projects, and much more. 💥
+Tech Phantoms is an open source community run by awesome students and early careers from our community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, resume reviews, and much more 🚀 Come hang out with us and let's make open source a better place 🔥 Join to our [Discord](https://discord.apihacks.co/) community and follow us on [Twitter](https://twitter.com/tech_phantoms) to stay tuned about new announcements, projects, and much more. 💥
 
 We hope to see you there! 😁
 
