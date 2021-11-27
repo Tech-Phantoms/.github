@@ -58,3 +58,9 @@ You can make your membership private at anytime and as many times as you want.
 memberships, you can head over to the <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">GitHub Docs</a></i>
 
 </details>
+
+## Sponsors
+
+We are constantly helping students in getting upskilled in open source way. And they believe our mission. A big shoutout to our sponsors.
+
+<image width="20%" src="https://user-images.githubusercontent.com/53480076/143679576-83355d9d-5172-4eba-9083-830a0fcfc434.png"/>
