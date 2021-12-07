@@ -5,7 +5,9 @@
 <h3 align="center">
 🎉 Welcome to Tech Phantoms 🎉
 </h3>
-
+<p align = "center">
+<img width="20%" src="https://user-images.githubusercontent.com/53480076/144970173-0cdc7bd7-1aa6-4452-a4cf-5cff38540d32.png" />
+</p>
 <div align="center">
 <a href="https://discord.apihacks.co/"><img src="https://img.shields.io/discord/848276970851926036.svg?logo=discord&colorB=7289DA" /></a>
 <a href="https://twitter.com/tech_phantoms"><img src="https://img.shields.io/badge/Twitter-Tech%20Phantoms-blue?logo=twitter&logoColor=blue&color=blue"/></a>
@@ -63,6 +65,7 @@ memberships, you can head over to the <a href="https://docs.github.com/en/github
 
 We are constantly helping students in getting upskilled in open source way. And they believe our mission. A big shoutout to our sponsors.
 <div style="display:flex;justify-content:center">
+<img width="20%" src="https://user-images.githubusercontent.com/53480076/144970173-0cdc7bd7-1aa6-4452-a4cf-5cff38540d32.png" />
 <image width="20%" src="https://user-images.githubusercontent.com/53480076/143679576-83355d9d-5172-4eba-9083-830a0fcfc434.png"/>
 <image width="20%" src="https://user-images.githubusercontent.com/53480076/143771523-929243a8-af98-49c2-8a80-5aa000b40838.png" />
 </div>
