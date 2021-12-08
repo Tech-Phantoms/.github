@@ -1,3 +1,10 @@
+<p align="center">
+
+```js
+🎉 Announcement: We are building our website using NextJS and Storyblok. Check Tech-Phantoms Repo
+```
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/banner1.png" width="80%" />
 </h1>
