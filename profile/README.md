@@ -69,11 +69,36 @@ memberships, you can head over to the <a href="https://docs.github.com/en/github
 
 </details>
 
-## Sponsors
+<h2 align="center">📦 Sponsors</h2>
 
-We are constantly helping students in getting upskilled in open source way. And they believe our mission. A big shoutout to our sponsors.
-<div style="display:flex;justify-content:center">
-<a href="https://vercel.com/?utm_source=techphantoms&utm_campaign=oss"><img width="20%" src="https://user-images.githubusercontent.com/53480076/144970173-0cdc7bd7-1aa6-4452-a4cf-5cff38540d32.png" /></a>
-<image width="20%" src="https://user-images.githubusercontent.com/53480076/143679576-83355d9d-5172-4eba-9083-830a0fcfc434.png"/>
-<image width="20%" src="https://user-images.githubusercontent.com/53480076/143771523-929243a8-af98-49c2-8a80-5aa000b40838.png" />
-</div>
+We are constantly helping students in getting upskilled in the open-source way. 🎉\
+They believe in our mission to empower students and help people get into OSS. 💪
+  
+A big shoutout and thank you to our sponsors! 🚀
+    <table>
+      <td>
+<a href="https://vercel.com/?utm_source=techphantoms&utm_campaign=oss"><img width="20%" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"/></a>
+
+<b>Vercel combines the best developer experience with an obsessive focus on end-user performance.
+Our platform enables frontend teams to do their best work.</b>
+      </td>
+      <td>
+<a href="https://1password.com/"><image width="50%" src="https://user-images.githubusercontent.com/53480076/143679576-83355d9d-5172-4eba-9083-830a0fcfc434.png"/></a>
+
+<b>1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.</b>
+      </td>
+      <tr>
+      <td>
+<a href="https://streamyard.com/"><image width="50%" src="https://user-images.githubusercontent.com/53480076/143771523-929243a8-af98-49c2-8a80-5aa000b40838.png"/></a>
+
+<b>StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.</b>
+      </td>
+      <td>
+        <a href="https://sawolabs.com"><img width="50%" src='https://user-images.githubusercontent.com/51391473/145697441-41999faa-c069-446c-854b-130d4248d830.png'/></a>
+
+<b>SAWO is the only user-authentication tool that your developers would crave for.
+Our APIs are fast, reliable, integrate onto any platform, and speak many languages.
+  What’s more? See your bounce rates come down by upto 30%</b>
+      </td>
+   </tr>
+  </table>
