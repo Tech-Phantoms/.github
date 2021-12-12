@@ -94,11 +94,7 @@ Our platform enables frontend teams to do their best work.</b>
 <b>StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.</b>
       </td>
       <td>
-        <a href="https://sawolabs.com"><img width="50%" src='https://user-images.githubusercontent.com/51391473/145697441-41999faa-c069-446c-854b-130d4248d830.png'/></a>
-
-<b>SAWO is the only user-authentication tool that your developers would crave for.
-Our APIs are fast, reliable, integrate onto any platform, and speak many languages.
-  What’s more? See your bounce rates come down by upto 30%</b>
+       Want to be part of our awesome sponsors. Reach us on [Discord](https://discord.apihacks.co)
       </td>
    </tr>
   </table>
