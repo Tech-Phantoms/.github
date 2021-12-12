@@ -1,9 +1,10 @@
-<p align="center">
+<!-- markdownlint-disable-next-line -->
+<p align="center"><h3>
 
-```js
-🎉 Announcement: We are building our website using NextJS and Storyblok. Check Tech-Phantoms Repo
-```
-</p>
+NEW: We are building our website using NextJS and Storyblok! 🎉\
+Check it out here! <https://github.com/Tech-Phantoms/Tech-Phantoms>
+
+</h3></p>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/banner1.png" width="80%" />
