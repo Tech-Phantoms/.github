@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 <div align="center">
 <img src="https://github.com/Tech-Phantoms/community/blob/main/assets/banner.png?raw=" width="80%" />
 
