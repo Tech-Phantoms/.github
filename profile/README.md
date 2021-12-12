@@ -94,7 +94,10 @@ Our platform enables frontend teams to do their best work.</b>
 <b>StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.</b>
       </td>
       <td>
-       Want to be part of our awesome sponsors. Reach us on [Discord](https://discord.apihacks.co)
+      <img src="https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/banner1.png" width="40%" />
+
+Wanna become our sponsor? Mail us at techphantoms.20@gmail.com or reach us on [Discord](https://discord.apihacks.co)!\
+We'll be happy to talk to you and be sponsors! 💖
       </td>
    </tr>
   </table>
