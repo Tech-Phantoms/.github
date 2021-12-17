@@ -77,7 +77,7 @@ They believe in our mission to empower students and help people get into OSS. ðŸ
 A big shoutout and thank you to our sponsors! ðŸš€
     <table>
       <td>
-<a href="https://vercel.com/?utm_source=techphantoms&utm_campaign=oss"><img width="20%" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"/></a>
+<a href="https://vercel.com/?utm_source=techphantoms&utm_campaign=oss"><img width="30%" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"/></a>
 
 <b>Vercel combines the best developer experience with an obsessive focus on end-user performance.
 Our platform enables frontend teams to do their best work.</b>
