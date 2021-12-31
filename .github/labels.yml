@@ -1,6 +1,6 @@
 # For our organization 
 - name: 'invite me to organisation'
-  color: 'D4ECDD'
+  color: '#D4ECDD'
 
 
 # issue bounty 
@@ -29,17 +29,17 @@
 
 # effort labels
 - name: 'effort: 1'
-  color: 91ca55
+  color: '#91ca55'
 - name: 'effort: 2'
-  color: c2e2a2
+  color: '#c2e2a2'
 - name: 'effort: 3'
-  color: e9f4dc
+  color: '#e9f4dc'
 - name: 'effort: 5'
-  color: fef6d7
+  color: '#fef6d7'
 - name: 'effort: 8'
-  color: fef2c0
+  color: '#fef2c0'
 - name: 'effort: 13'
-  color: fbca04
+  color: '#fbca04'
 
 # Issue type labels 
 - name: 'type: bug'
@@ -65,24 +65,22 @@
 
 # work labels
 - name: 'work: chaotic'
-  color: fbca04
+  color: '#fbca04'
   description: The situation is chaotic, novel practices used.
   aliases:
     - chaotic
 - name: 'work: complex'
-  color: d4c5f9
+  color: '#d4c5f9'
   description: The situation is complex, emergent practices used.
   aliases:
     - complex
 - name: 'work: complicated'
-  color: ffb8c6
+  color: '#ffb8c6'
   description: The situation is complicated, good practices used.
   aliases:
     - complicated
 - name: 'work: obvious'
-  color: 91ca55
+  color: '#91ca55'
   description: The situation is obvious, best practices used.
   aliases:
     - obvious
-- name: 'invite me to organisation'
-  color: 'D4ECDD'
