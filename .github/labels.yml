@@ -20,7 +20,7 @@
   color: '#7900FF'
 
 # discussion labels 
-- name: '📄 Maintainer Program 2021'
+- name: 'Maintainer Program 2021'
   description: 'Mark Submissions for 2021 Maintainer Program'
   color: '#FEF2C0'
 - name: 'Maintainers Program 2021 proposal - accepted'

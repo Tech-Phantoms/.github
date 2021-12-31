@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: julb/action-manage-label@v1
         with:
-          from: 'https://raw.githubusercontent.com/Tech-Phantoms/.github/main/.github/labels.yml'
+          from: 'https://github.com/Tech-Phantoms/.github/blob/main/.github/labels.yml?raw=true'
           skip_delete: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
