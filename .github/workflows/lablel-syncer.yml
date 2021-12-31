@@ -1,0 +1,15 @@
+name: Sync Labels 
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: julb/action-manage-label@v1
+        with:
+          from: 'https://github.com/Tech-Phantoms/.github/blob/main/.github/labels.yml?raw=true'
+          skip_delete: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

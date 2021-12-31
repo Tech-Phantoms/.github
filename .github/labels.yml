@@ -1,14 +1,33 @@
-# seantrane label group see - https://seantrane.com/posts/logical-colorful-github-labels-18230/#label-groups 
-- name: github-invitation
-  color: ffb8c6
-- name: breaking
-  color: d73a4a
-  description: Introduces a breaking change.
-  aliases:
-    - breaking change
-    - breaking-change
-    - 'Type: Breaking Change'
-    - 'type: breaking'
+# For our organization 
+- name: 'invite me to organisation'
+  color: 'D4ECDD'
+
+
+# issue bounty 
+- name: good first issue
+  description: 'Good for newcomers'
+  color: '#7057ff'
+- name: up-for-grabs
+  description: 'Open for work'
+  color: '#93FFD8'
+- name: hacktoberfest
+  description: issue up for hactoberfest participation 
+  color: '#DE834D'
+- name: 'beginner'
+  description: 'issue suitable for beginners'
+  color: '#FAEDC6'
+- name: first-timers-only
+  color: '#7900FF'
+
+# discussion labels 
+- name: '📄 Maintainer Program 2021'
+  description: 'Mark Submissions for 2021 Maintainer Program'
+  color: '#FEF2C0'
+- name: 'Maintainers Program 2021 proposal - accepted'
+  description: 'Accepted Maintainers Program 2021 proposal'
+  color: '#D60398'
+
+# effort labels
 - name: 'effort: 1'
   color: 91ca55
 - name: 'effort: 2'
@@ -21,158 +40,30 @@
   color: fef2c0
 - name: 'effort: 13'
   color: fbca04
-- name: good first issue
-  color: 7057ff
-  description: Good for newcomers.
-  aliases:
-    - beginner-friendly
-    - beginner
-    - good for beginner
-    - Good for beginners
-    - good-starter-issue
-    - starter-issue
-    - starter
-    - 'status: good starter issue'
-- name: help
-  color: 0e8a16
-  aliases:
-    - help wanted
-    - Patch Welcome
-    - 'status: help wanted'
-    - 'Status: PR Welcome'
-    - 'Status: Ready for PR'
-- name: 'priority: now'
-  color: d73a4a
-  aliases:
-    - 'priority: critical'
-    - 'Priority: Critical'
-- name: 'priority: soon'
-  color: ffb8c6
-  aliases:
-    - 'priority: medium'
-    - 'Priority: Medium'
-- name: 'priority: 2day'
-  color: fbca04
-  aliases:
-    - 'priority: high'
-    - 'Priority: High'
-- name: semantic-release
-  color: e6e6e6
-- name: 'state: approved'
-  color: 91ca55
-  description: Approved to proceed.
-  aliases:
-    - approved
-- name: 'state: blocked'
-  color: d73a4a
-  description: Something is blocking action.
-  aliases:
-    - blocked
-    - 'Status: Blocked'
-    - 'status: blocked'
-- name: 'state: pending'
-  color: fbca04
-  description: >-
-    Taking action, but need a few things to happen first. A feature that needs
-    dependencies merged, or a bug that needs further data.
-  aliases:
-    - in progress
-    - on hold
-    - pending
-    - 'Status: In Progress'
-    - 'Status: Review Needed'
-    - watchlist
-- name: 'state: inactive'
-  color: e6e6e6
-  description: >-
-    No action needed or possible. The issue is either fixed, addressed better by
-    other issues, or just out of product scope.
-  aliases:
-    - duplicate
-    - invalid
-    - stale
-    - 'Status: Abandoned'
-    - 'status: duplicate'
-    - 'status: wontfix'
-    - wont-fix
-    - wontfix
+
+# Issue type labels 
 - name: 'type: bug'
-  color: d73a4a
-  description: Something isn't working.
-  aliases:
-    - bug
-    - 'Type: Bug'
-- name: 'type: chore'
-  color: fef2c0
-  description: >-
-    Converting measurements, reorganizing folder structure, and other necessary
-    (but less impactful) tasks.
-  aliases:
-    - chore
-    - dependabot
-    - dependencies
-    - dependency
-    - greenkeeper
-    - legal
-    - maintenance
-    - 'Type: Maintenance'
-    - 'type: maintenance'
-- name: 'type: discussion'
-  color: d4c5f9
-  description: Questions, proposals and info that requires discussion.
-  aliases:
-    - discussion
-    - feedback
-    - help wanted
-    - idea
-    - Idea
-    - Proposal
-    - proposal
-    - question
-    - 'type: design'
-    - 'Type: Question'
-    - 'type: question'
-- name: 'type: docs'
-  color: fef2c0
-  description: Related to documentation and information.
-  aliases:
-    - doc
-    - docs
-    - document
-    - documentation
-    - documents
-    - 'Type: Documentation'
-    - 'type: documentation'
+  description: ' Something isn''t working as intended'
+  color: '#FF5C58'
 - name: 'type: feature'
-  color: 5ebeff
-  description: Brand new functionality, features, pages, workflows, endpoints, etc.
-  aliases:
-    - addition
-    - enhancement
-    - feature
-    - 'type: enhancement'
-    - 'Type: Feature'
-- name: 'type: fix'
-  color: 91ca55
-  description: Iterations on existing features or infrastructure.
-  aliases:
-    - fix
-    - improvement
-    - optimization
-    - refactor
-    - 'Type: Fix'
-    - 'Type: Refactoring'
-- name: 'type: security'
-  color: d73a4a
-  description: Something is vulnerable or not secure.
-  aliases:
-    - security
-- name: 'type: testing'
-  color: fbca04
-  description: Related to testing.
-  aliases:
-    - test
-    - testing
+  description: 'new feature '
+  color: '#B4FE98'
+- name: 'type: chore'
+  description: boring work
+- name: 'type: doc'
+  description: ' Improvements or additions to documentation '
+  color: '#3D56B2'
+- name: 'type: enhancement'
+  description: small upgrade
+  color: '#FFE194'
+- name: 'type: awaiting triage'
+  description: ' Awaiting triage from a maintainer '
+  color: '#CDF0EA'
+- name: 'type: idea'
+  description: 'A new idea '
+  color: '#FFF7AE'
+
+# work labels
 - name: 'work: chaotic'
   color: fbca04
   description: The situation is chaotic, novel practices used.
