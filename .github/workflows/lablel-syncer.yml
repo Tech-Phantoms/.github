@@ -15,6 +15,10 @@ jobs:
       - uses: micnncim/action-label-syncer@v1.3.0
         with:
           manifest: .github/labels.yml
-          prune: false
+          repository: |
+            Tech-Phantoms/.github
+            Tech-Phantoms/community
+            Tech-Phantoms/Maintainers-Program
+            Tech-Phantoms/theme
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GOD_TOKEN }}
