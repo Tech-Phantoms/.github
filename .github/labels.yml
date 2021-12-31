@@ -9,15 +9,15 @@
   color: '#7057ff'
 - name: up-for-grabs
   description: 'Open for work'
-  color: '#93FFD8'
+  color: '#0E8A16'
 - name: hacktoberfest
   description: issue up for hactoberfest participation 
-  color: '#DE834D'
+  color: '#FBCA04'
 - name: 'beginner'
   description: 'issue suitable for beginners'
-  color: '#FAEDC6'
+  color: '#7057ff'
 - name: first-timers-only
-  color: '#7900FF'
+  color: '#C5DEF5'
 
 # discussion labels 
 - name: 'Maintainer Program 2021'
