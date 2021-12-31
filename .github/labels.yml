@@ -2,22 +2,31 @@
 - name: 'invite me to organisation'
   color: '#D4ECDD'
 
-
-# issue bounty 
-- name: good first issue
-  description: 'Good for newcomers'
-  color: '#7057ff'
-- name: up-for-grabs
-  description: 'Open for work'
-  color: '#0E8A16'
-- name: hacktoberfest
-  description: issue up for hactoberfest participation 
-  color: '#FBCA04'
-- name: 'beginner'
-  description: 'issue suitable for beginners'
-  color: '#7057ff'
-- name: first-timers-only
-  color: '#C5DEF5'
+# Default GitHub Labels
+- color: d73a4a
+  name: bug
+  description: Something isn't working
+- color: cfd3d7
+  name: duplicate
+  description: This issue or pull request already exists
+- color: a2eeef
+  name: enhancement
+  description: New feature or request
+- color: 7057ff
+  name: good first issue
+  description: Good for newcomers
+- color: 008672
+  name: help wanted
+  description: Extra attention is needed
+- color: e4e669
+  name: invalid
+  description: This doesn't seem right
+- color: d876e3
+  name: question
+  description: Further information is requested
+- color: ffffff
+  name: wontfix
+  description: This will not be worked on
 
 # discussion labels 
 - name: 'Maintainer Program 2021'
