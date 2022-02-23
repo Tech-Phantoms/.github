@@ -1,8 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <h3 align="center">
 
-NEW: We are building our website using NextJS and Storyblok! 🎉\
-Check it out here! <https://github.com/Tech-Phantoms/Tech-Phantoms>
+
 
 </h3>
 
